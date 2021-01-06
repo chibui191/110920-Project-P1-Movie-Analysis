@@ -30,7 +30,13 @@ The goal of this project is to weigh the impacts of attributes like genres, dire
 
 ## Methods
 
-This project uses **descriptive analysis** including the analysis of trends and market distribution over time, which would provide a useful overview of the landscape of the filmmaking industry.
+This project uses **descriptive analysis** including the analysis of trends and market distribution over time, which would provide a useful overview of the landscape of the filmmaking industry. 
+
+Tools used primarily for this analysis:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 
 ## Results
