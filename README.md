@@ -1,16 +1,16 @@
-# Exploratory Analysis of Movies Released from 1915 and 2019
+# Exploratory Analysis of Movies Released from 1915 to 2019
 
 **Author**: Chi Bui
 
 ## Overview
 
-The objective of this project is to use exploratory data analysis and visualization to identify current trends and key parameters of a successful movie. Using data science, we can potentially predict customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
+The objective of this project is to use *exploratory data analysis* and *visualization* to identify current trends and key parameters of a successful movie. Using data science, we can potentially predict customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
 
 ## Business Problem
 
 The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for over 75% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
 
-The objective of this project is to use *exploratory data analysis* and *visualizations* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Using data collected from two main sources, [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**thenumber.org**](https://www.the-numbers.com/market/), to study market trends from 1915 to 2019 with a special focus on the 2000-2019 period would certainly provide insights on how to optimize a debut into the movie industry for a new company in 2021.
+The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Using data collected from two main sources, [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**thenumber.org**](https://www.the-numbers.com/market/), to study market trends from 1915 to 2019 with a special focus on the 2000-2019 period would certainly provide insights on how to optimize a debut into the movie industry for a new company in 2021.
 
 ## Data
 
@@ -35,21 +35,6 @@ This project uses **descriptive analysis** including the analysis of trends and 
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
-
-## Conclusions
-
 1. The number of movies released seems to have hit its peak in 2008, which coincides with Netflix's expansion to offering streaming services in 2007. In the span of 12 years, streaming media seem to have quickly taken over movie theaters.
 
 ![graph1](./images/viz1.png)
@@ -59,6 +44,18 @@ Here is an example of how to embed images from your sub-folder:
 ![graph1](./images/viz1.png)
 
 3. In general, <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. However, the best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rates of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>. 
+
+## Conclusions
+
+Some recommendations for a new company to break into the movie production industry can be derived from this exploratory analysis as follows:
+<br>
+- Combining different genres generally boosts profit and return on investment as it helps attract more demographics. Some of the most profitable combinations include <b>Action & Adventure</b>, <b>Science Fiction & Fantasy</b> with some elements of <b>Drama</b>, <b>Comedy</b> and <b>Mystery & Suspense</b>. However, producing movies based too directly on past success could also lead to potentially over-saturating the market. Therefore, it is always important to incorporate elements of novelty into the movies and take into consideration how the audience might have evolved over time.  
+
+
+- <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. The best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rate of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>.  
+
+
+- Since the introduction of media streaming services in 2007 by Netflix, less movies are being released in movie theaters. This demonstrates the importance of the distributors and distributing methods in the movie industry. Investing in a partnership/licensing deal with Netflix and/or other streaming platforms might help your product reach more audience, and eventually success, which should no longer be measured primarily by box office gross. 
 
 ## For More Information
 
