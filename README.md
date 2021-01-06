@@ -65,12 +65,10 @@ For any additional questions, please contact **Chi Bui at [chibui191@gmail.com](
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── README.md                                             <- The top-level README for reviewers of this project
-├── dsc-phase1-project-movie-exploratory-analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf                           <- PDF version of project presentation
-├── data                                                  <- Both sourced externally and generated from code
-└── images                                                <- Both sourced externally and generated from code
+├── README.md                                             
+├── dsc-phase1-project-movie-exploratory-analysis.ipynb   
+├── DS_Project_Presentation.pdf                           
+├── data                                                  
+└── images                                                
 ```
