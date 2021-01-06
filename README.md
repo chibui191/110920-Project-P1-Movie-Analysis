@@ -8,9 +8,9 @@ The objective of this project is to use *exploratory data analysis* and *visuali
 
 ## Business Problem
 
-The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for over 75% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
+The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for approximately 80% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
 
-The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Our goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**thenumber.org**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2019 with a special focus on the 2000-2019 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
+The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Our goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**thenumber.org**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2019 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
 
 ## Data
 
@@ -21,7 +21,7 @@ We are provided with 11 movie datasets from various sources:
 - [The Movie Database](https://www.themoviedb.org/) (1)
 - [The Numbers](https://www.the-numbers.com/market/) (1)
 
-The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from <b>the-numbers.com</b> and <b>Rotten Tomatoes</b>. This dataset contains 4348 entries for movies released in the span of 105 years from 1915-02-08 to 2019-12-31.
+The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from <b>the-numbers.com</b> and <b>Rotten Tomatoes</b>. This dataset contains 4348 entries for movies released in the span of 104 years from 1915-02-08 to 2018-12-31.
 
 The goal of this project is to weigh the impacts of attributes like genres, directors, production company, and month of release on the commercial success of movies as well as the correlation between ratings and worldwide gross. More specifically, commercial success of movies are evaluated based on:
 - <b>box office gross</b>
@@ -61,7 +61,7 @@ Some recommendations for a new company to break into the movie production indust
 - <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. The best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rate of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>.  
 
 
-- Since the introduction of media streaming services in 2007 by Netflix, less movies are being released in movie theaters. This demonstrates the importance of the distributors and distributing methods in the movie industry. Investing in a partnership/licensing deal with Netflix and/or other streaming platforms might help your product reach more audience, and eventually success, which should no longer be measured primarily by box office gross. 
+- Top candidates to assume the role directors would be **Anthony Russo** and **James Cameron**. 
 
 ## For More Information
 
