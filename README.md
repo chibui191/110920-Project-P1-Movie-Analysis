@@ -75,7 +75,7 @@ Some recommendations for a new company to break into the movie production indust
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-movie-exploratory-analysis.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-movie-exploratory-analysis.ipynb) or our [presentation](./Movie_Presentation.pdf).
 
 For any additional questions, please contact **Chi Bui at [chibui191@gmail.com](mailto:chibui191@gmail.com)**
 
