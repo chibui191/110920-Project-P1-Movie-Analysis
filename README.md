@@ -4,13 +4,13 @@
 
 ## Overview
 
-The objective of this project is to use *exploratory data analysis* and *visualization* to identify current trends and key parameters of a successful movie. Using data science, we can potentially predict customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
+The objective of this project is to use ***exploratory data analysis*** and ***visualization*** to identify current trends and key parameters of a successful movie. Applying data science, we can potentially predict customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
 
 ## Business Problem
 
 The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for approximately 80% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
 
-The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Our goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**thenumber.org**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2019 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
+The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Our goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**the-numbers.com**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2018 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
 
 ## Data
 
@@ -21,9 +21,11 @@ We are provided with 11 movie datasets from various sources:
 - [The Movie Database](https://www.themoviedb.org/) (1)
 - [The Numbers](https://www.the-numbers.com/market/) (1)
 
-The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from <b>the-numbers.com</b> and <b>Rotten Tomatoes</b>. This dataset contains 4348 entries for movies released in the span of 104 years from 1915-02-08 to 2018-12-31.
+The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from <b>the-numbers.com</b> and <b>Rotten Tomatoes</b>. This dataset contains 4,304 entries for movies released in the span of 104 years from 1915-02-08 to 2018-12-31.
 
-The goal of this project is to weigh the impacts of attributes like genres, directors, production company, and month of release on the commercial success of movies as well as the correlation between ratings and worldwide gross. More specifically, commercial success of movies are evaluated based on:
+The goal of this project is to weigh the impacts of attributes like **genres**, **directors**, **production company**, and **month of release** on the commercial success of movies as well as the correlation between ratings and box office gross. 
+
+Commercial success of movies are evaluated on:
 - <b>box office gross</b>
 - <b>profit</b> = worldwide gross - production budget 
 - <b>rate of return</b> = profit / production budget
@@ -43,13 +45,21 @@ Tools used primarily for this analysis:
 
 1. The number of movies released seems to have hit its peak in 2008, which coincides with Netflix's expansion to offering streaming services in 2007. In the span of 12 years, streaming media seem to have quickly taken over movie theaters.
 
-![graph1](./images/viz1.png)
+![Plot-01](./images/plt_01.png)
 
 2. Movies with high commercial success are rarely categorized solely as one single genre. Based on historical data, a combination of <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> with some <b>Comedy</b> and <b>Drama</b> elements tend to do relatively well. Although the number of movies released seems to have reduced since 2008, the percentage of movies tagged with <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> are still on the rise, which indicates an upward trend for these.
 
-![graph1](./images/viz1.png)
+![Plot-05](./images/plt_05.png)
+
+![Plot-10](./images/plt_10.png)
 
 3. In general, <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. However, the best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rates of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>. 
+
+![Plot-11](./images/plt_11.png)
+
+4. Based on profit, top candidates to assume the role of Directors would be Anthony Russo, and James Cameron.
+
+![Plot-14](./images/plt_14.png)
 
 ## Conclusions
 
