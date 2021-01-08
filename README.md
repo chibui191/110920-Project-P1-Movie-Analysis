@@ -45,21 +45,21 @@ Tools used primarily for this analysis:
 
 1. The number of movies released seems to have hit its peak in 2008, which coincides with Netflix's expansion to offering streaming services in 2007. In the span of 12 years, streaming media seem to have quickly taken over movie theaters.
 
-![Plot-01](./images/plt_01.png)
+![Plot-01](./images/plt-01.png)
 
 2. Movies with high commercial success are rarely categorized solely as one single genre. Based on historical data, a combination of <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> with some <b>Comedy</b> and <b>Drama</b> elements tend to do relatively well. Although the number of movies released seems to have reduced since 2008, the percentage of movies tagged with <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> are still on the rise, which indicates an upward trend for these.
 
-![Plot-05](./images/plt_05.png)
+![Plot-05](./images/plt-05.png)
 
-![Plot-10](./images/plt_10.png)
+![Plot-10](./images/plt-10.png)
 
 3. In general, <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. However, the best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rates of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>. 
 
-![Plot-11](./images/plt_11.png)
+![Plot-11](./images/plt-11.png)
 
 4. Based on profit, top candidates to assume the role of Directors would be Anthony Russo, and James Cameron.
 
-![Plot-14](./images/plt_14.png)
+![Plot-14](./images/plt-14.png)
 
 ## Conclusions
 
