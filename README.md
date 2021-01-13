@@ -4,13 +4,13 @@
 
 ## Overview
 
-The objective of this project is to use ***exploratory data analysis*** and ***visualization*** to identify current trends and key parameters of a successful movie. Applying data science, we can potentially predict customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
+The objective of this project is to use ***exploratory data analysis*** and ***visualization*** to identify current trends and key parameters of a successful movie. Applying these technique, this analysis seeks to identify customer preference and determine how to construct and optimize content for our product to reach its maximum potential.
 
 ## Business Problem
 
 The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for approximately 80% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
 
-The objective of this project is to use *exploratory data analysis* and *visualization* to investigate the relations between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. Our goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**the-numbers.com**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2018 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
+The focus of this project is to investigate the relationships between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. My goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**the-numbers.com**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2018 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
 
 ## Data
 
