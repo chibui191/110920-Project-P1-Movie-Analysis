@@ -21,7 +21,7 @@ I was provided with 11 movie datasets from various sources:
 - [The Movie Database](https://www.themoviedb.org/) (1)
 - [The Numbers](https://www.the-numbers.com/market/) (1)
 
-The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from <b>the-numbers.com</b> and <b>Rotten Tomatoes</b>. This dataset contains 4,304 entries for movies released in the span of 104 years from 1915-02-08 to 2018-12-31.
+The final dataframe used for the majority of analyses this project (`tn_rotten_tomatoes`) is a merge between datasets from **the-numbers.com** and **Rotten Tomatoes**. This dataset contains 4,304 entries for movies released in the span of 104 years from 1915-02-08 to 2018-12-31.
 
 The goal of this project is to weigh the impacts of attributes like **genres**, **directors**, **production company**, and **month of release** on the commercial success of movies as well as the correlation between ratings and box office gross. 
 
@@ -47,13 +47,13 @@ Tools used primarily for this analysis:
 
 ![Plot-01](./images/plt-01.png)
 
-2. Movies with high commercial success are rarely categorized solely as one single genre. Based on historical data, a combination of <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> with some <b>Comedy</b> and <b>Drama</b> elements tend to do relatively well. Although the number of movies released seems to have reduced since 2008, the percentage of movies tagged with <b>Action & Adventure</b> and <b>Science Fiction & Fantasy</b> are still on the rise, which indicates an upward trend for these.
+2. Movies with high commercial success are rarely categorized solely as one single genre. Based on historical data, a combination of **Action & Adventure<** and **Science Fiction & Fantasy** with some **Comedy** and **Drama** elements tend to do relatively well. Although the number of movies released seems to have reduced since 2008, the percentage of movies tagged with **Action & Adventure** and **Science Fiction & Fantasy** are still on the rise, which indicates an upward trend for these.
 
 ![Plot-05](./images/plt-05.png)
 
 ![Plot-10](./images/plt-10.png)
 
-3. In general, <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. However, the best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rates of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>. 
+3. In general, **May** and **June** are the best months to release a movie for potential profit. However, the best time to release a **Horror** and **Mystery & Suspense** movie would be **October**. Some of the movies with highest rates of return (profit/budget) in the last 20 years are categorized as **Horror** and **Mystery & Suspense**. 
 
 ![Plot-11](./images/plt-11.png)
 
@@ -65,10 +65,10 @@ Tools used primarily for this analysis:
 
 Some recommendations for a new company to break into the movie production industry can be derived from this exploratory analysis as follows:
 <br>
-- Combining different genres generally boosts profit and return on investment as it helps attract more demographics. Some of the most profitable combinations include <b>Action & Adventure</b>, <b>Science Fiction & Fantasy</b> with some elements of <b>Drama</b>, <b>Comedy</b> and <b>Mystery & Suspense</b>. However, producing movies based too directly on past success could also lead to potentially over-saturating the market. Therefore, it is always important to incorporate elements of novelty into the movies and take into consideration how the audience might have evolved over time.  
+- Combining different genres generally boosts profit and return on investment as it helps attract more demographics. Some of the most profitable combinations include **Action & Adventure**, **Science Fiction & Fantasy** with some elements of **Drama**, **Comedy** and **Mystery & Suspense**. However, producing movies based too directly on past success could also lead to potentially over-saturating the market. Therefore, it is always important to incorporate elements of novelty into the movies and take into consideration how the audience might have evolved over time.  
 
 
-- <b>May</b> and <b>June</b> are the best months to release a movie for potential profit. The best time to release a <b>Horror</b> and <b>Mystery & Suspense</b> movie would be <b>October</b>. Some of the movies with highest rate of return (profit/budget) in the last 20 years are categorized as <b>Horror</b> and <b>Mystery & Suspense</b>.  
+- **May** and **June** are the best months to release a movie for potential profit. The best time to release a **Horror** and **Mystery & Suspense** movie would be **October**. Some of the movies with highest rate of return (profit/budget) in the last 20 years are categorized as **Horror** and **Mystery & Suspense**.  
 
 
 - Top candidates to assume the role directors would be **Anthony Russo** and **James Cameron**. 
