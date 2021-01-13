@@ -10,11 +10,11 @@ The objective of this project is to use ***exploratory data analysis*** and ***v
 
 The filmmaking industry is currently dominated by 6 big players 'Warner Bros', 'Walt Disney', '20th Century Fox', 'Paramount', 'Sony', and 'Universal', which accounted for approximately 80% of the market share altogether. Planning for a debut into a highly competitive market for a new company would therefore require thorough analysis of the current landscape of the film industry.
 
-The focus of this project is to investigate the relationships between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. My goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**the-numbers.com**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2018 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
+The focus of this analysis is to investigate the relationships between certain attributes like **genres**, **directors**, **production company**, **month of release** on a movie’s commercial success, as well as the correlation between **ratings** and **box office gross**. My goal is to use data collected from two main sources [**Rotten Tomatoes**](https://www.rottentomatoes.com/) and [**the-numbers.com**](https://www.the-numbers.com/market/) to study market trends from 1915 to 2018 with a special focus on the 2000-2018 to derive insights on how to optimize a debut into the movie industry for a new company in 2021.
 
 ## Data
 
-We are provided with 11 movie datasets from various sources:
+I was provided with 11 movie datasets from various sources:
 - [Box Office Mojo](https://www.boxofficemojo.com/) (1)
 - [IMDb](https://www.imdb.com/) (6)
 - [Rotten Tomatoes](https://www.rottentomatoes.com/) (2)
